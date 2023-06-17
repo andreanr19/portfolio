@@ -57,7 +57,7 @@ const config = {
     },
     {
       company: 'Icesi University',
-      position: 'Software Engineer's Monitor',
+      position: 'Software Engineer Monitor',
       from: 'July 2021',
       to: 'December 2022',
       companyLink: 'https://www.icesi.edu.co/es/',
@@ -74,7 +74,7 @@ const config = {
   education: [
     {
       institution: 'Software Engineer Undergraduate',
-      degree: 'Bachelor's degree',
+      degree: 'Bachelor degree',
       from: '2018',
       to: '2023',
     },
