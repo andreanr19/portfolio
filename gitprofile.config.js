@@ -41,8 +41,6 @@ const config = {
     'MySQL',
     'PostgresSQL',
     'Git',
-    'Docker',
-    'PHPUnit',
     'CSS',
     'HTML',
     'C#',
