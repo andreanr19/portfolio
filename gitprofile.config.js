@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
+    username: 'andreanr19', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
@@ -11,56 +11,56 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
-    facebook: '',
-    instagram: '',
+    linkedin: 'andrea-nunez-rodriguez',
+    twitter: 'TheIrwin5SOS',
+    mastodon: '',
+    facebook: 'andrea.nr19',
+    instagram: 'nunezandrear',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: '',
+    dev: '',
     stackoverflow: '', // format: userid/username
     skype: '',
     telegram: '',
-    website: 'https://arifszn.com',
-    phone: '',
-    email: 'arifulalamszn@gmail.com',
+    website: '',
+    phone: '+573182349189',
+    email: 'andrea.nr2000@gmail.com',
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1Cwr53Pr2iw5AHD2-an53qEEhl-7pZWix/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
+    'Springboot',
+    'Java',
     'JavaScript',
     'React.js',
     'Node.js',
-    'Nest.js',
+    'Angular.js',
     'MySQL',
-    'PostgreSQL',
+    'PostgresSQL',
     'Git',
     'Docker',
     'PHPUnit',
     'CSS',
-    'Antd',
-    'Tailwind',
+    'HTML',
+    'C#',
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Accenture',
+      position: 'Intern',
+      from: 'January 10',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://www.accenture.com/es-es',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Icesi University',
+      position: 'Software Engineer's Monitor',
+      from: 'July 2021',
+      to: 'December 2022',
+      companyLink: 'https://www.icesi.edu.co/es/',
     },
   ],
   /* certifications: [
@@ -73,16 +73,10 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Software Engineer Undergraduate',
+      degree: 'Bachelor's degree',
+      from: '2018',
+      to: '2023',
     },
   ],
 
@@ -176,13 +170,6 @@ const config = {
       '--rounded-btn': '3rem',
     },
   },
-
-  // Optional Footer. Supports plain text or HTML.
-  footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
-      target="_blank"
-      rel="noreferrer"
-    >GitProfile</a> and ❤️`,
 };
 
 export default config;
