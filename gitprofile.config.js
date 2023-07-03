@@ -29,7 +29,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      'https://drive.google.com/file/d/1hV7MF6ze7JjC5ibO0AaGtvxKFd6YpqHc/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/14iuDQuX2l8v2rLpsURFcaDaEge0v_SJM/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Springboot',
